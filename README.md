@@ -48,9 +48,7 @@ I am not responsible for anything that happens to your phone after installing th
 ## Installation
 - Open Samsung Camera App then close it (To avoid bugs after installing camera config)
 - Go to repository's releases tab and donwload The ZIP File attached then flash inside Magisk or KernelSU Manager
-- For Magisk Users: Enable Zygisk in Magsisk Manager
-- For KernelSU Users: Download ZygiskNext Module and flash in KernelSU Manager
-- After enabling Zygisk, reboot and you're good to go.
+- Reboot
 ## Recovering From Bootloop - KernelSU
 - First step would be to press and hold Volume DOWN and PWR Button
 - When the phone's screen turns black let go of the buttons and repeatedly spam the Volume DOWN button until your phone boots and you are at lockcreen
