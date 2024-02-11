@@ -18,9 +18,6 @@ fi
 	ui_print " -- Installing MODS in /system"
 	package_extract_dir system "$MODPATH/system"
 	ui_print " "
-	ui_print " -- Fixing Contexts"
-	set_context /system "$MODPATH/system"
-	ui_print " "
 	ui_print " -- Finalized"
 	ui_print " "
 
