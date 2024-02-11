@@ -18,6 +18,7 @@
 - S24 Ultra Bootanimation
 - Host Based Adblock
 - Multi User Support
+- New Edglelight Effects
 - Improoved Display's Color Vibrancy
 - Smart Widget Suggestions
 
