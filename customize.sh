@@ -1,3 +1,4 @@
+SKIPUNZIP=0
 startlog "/sdcard/log.oneui.txt"
 ui_print "-------------------------------------------- "
 ui_print " One UI Mods - A34 5G - Dynamic Installer    "
@@ -11,4 +12,13 @@ if [ $CUSTOM_SETUP = 0 ]; then
 else
    ui_print " - Installation by KernelSU"
 fi
+
+
+
+	ui_print " -- Installing MODS in /system"
+	package_extract_dir system "$MODPATH/system"
+	ui_print " "
+	ui_print " -- Finalized"
+	ui_print " "
+
 endlog
