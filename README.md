@@ -10,7 +10,9 @@
 
 ## System Addons
 - HWUI Vulkan Enabled
+- Enhanced Audio Quality - Custom Dolby Config
 - Minor System Performance Tweaks
+- Minor Floating Features Tweaks
 - OneUI Home HighEnd Animations
 - iOS 16.4 Emojis
 - Performance Profiles in Device Care
@@ -20,20 +22,22 @@
 - Multi User Support
 - New Edglelight Effects
 - Improoved Display's Color Vibrancy
-- Smart Widget Suggestions
 
 
 ## Camera Addons
 - Ultra-Wide UHD30 Recording 
 - Ultra-Wide FHD60 Recording
 - Ultra-Wide HDR10+ Recording
+- High Bitrate Videos
 - RAW Picture Format in Pro Mode
 - Samsung Camera Assistant Support
 - Optical Image Stabilization for FHD60 Recording - Back Camera
 - Super Video Stabilization for FHD60 Recording - Back Camera
 - Brand New S23FE Image Post Processing Algorithm For Enhanced Picture Quality
 - Brand New S23FE HDR Algorithm For Enhanced Picture Quality
-- Brand New S23FE Scene Detection For Enhanced Picture Quality
+- Brand New S23FE Scene Detection Engine For Enhanced Picture Quality
+- Brand New S23 FE Image Color Engine For Enhanced Picture Quality
+- Brand New S23 FE Image Remaster Engine For Enhanced Picture Quality
 - Extra S23FE Processing Libraries Ported For Enhanced Picture Quality
 - Front and Back camcorder supports "HDR10+" recording
 - Slightly Better SingleTake
