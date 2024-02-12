@@ -36,8 +36,6 @@
 - Brand New S23FE Image Post Processing Algorithm For Enhanced Picture Quality
 - Brand New S23FE HDR Algorithm For Enhanced Picture Quality
 - Brand New S23FE Scene Detection Engine For Enhanced Picture Quality
-- Brand New S23 FE Image Color Engine For Enhanced Picture Quality
-- Brand New S23 FE Image Remaster Engine For Enhanced Picture Quality
 - Extra S23FE Processing Libraries Ported For Enhanced Picture Quality
 - Front and Back camcorder supports "HDR10+" recording
 - Slightly Better SingleTake
