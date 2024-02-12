@@ -10,18 +10,7 @@ fw.show_multiuserui=1
 #Disables Error Checking
 ro.kernel.android.checkjni=0
 ro.kernel.checkjni=0
-dalvik.vm.dex2oat-minidebuginfo=fals
-#debug.sf.disable_backpressure=0
-#debug.sf.disable_client_composition_cache=1
-debug.sf.early_phase_offset_ns=1000000
-debug.sf.early_gl_phase_offset_ns=1000000
-debug.sf.early_app_phase_offset_ns=4000000
-debug.sf.early_gl_app_phase_offset_ns=4000000
-#debug.sf.enable_gl_backpressure=1
-debug.sf.high_fps_early_gl_phase_offset_ns=-2000000
-debug.sf.high_fps_early_phase_offset_ns=-4000000
-debug.sf.high_fps_late_app_phase_offset_ns=1000000
-debug.sf.high_fps_late_sf_phase_offset_ns=-2000000
+
 #Screen Mirroring
 wlan.wfd.hdcp=disable
 
