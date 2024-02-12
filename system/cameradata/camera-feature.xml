@@ -103,7 +103,7 @@
     <local name="BACK_MACRO_CAMERA_ID" value="54"/>
     <local name="FRONT_CROP_FOV_CAMERA_ID" value="2"/>
 
-    <!-- Support picture format -->
+    <!-- Support RAW picture format -->
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="true"/> 
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="true"/> 
 
@@ -312,5 +312,13 @@
 	<local name="SUPPORT_CAMERA_ASSISTANT_AUTO_LENS_SWITCHING" value="true"/>
 	<local name="SUPPORT_CAMERA_ASSISTANT_CROP_ZOOM_X2" value="true"/>
 	<local name="SUPPORT_CAMERA_ASSISTANT_DIGITAL_ZOOM_UPSCALE" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_FAST_SHUTTER" value="true"/>
+    <local name="SUPPORT_CAMERA_ASSISTANT_SOFTEN_PICTURE" value="true"/>
 	
+	<local name="SUPPORT_VIDEO_HIGH_BITRATE" value="true"/>
+    <local name="SUPPORT_BACK_WIDE_PRO" value="true"/>
+    <local name="SUPPORT_RECORDING_MULTI_MIC_ZOOM_FOCUS" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_AUDIO_INPUT_CONTROL" value="true"/>
+    <local name="SUPPORT_PRO_VIDEO_AUDIO_BLUETOOTH_MIX_MIC" value="true"/>
+    <local name="SUPPORT_DETAIL_ENHANCER_BUTTON" value="true"/>
 </resources>
