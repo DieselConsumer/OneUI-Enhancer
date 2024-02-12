@@ -61,4 +61,8 @@ libAiSolution_wrapper_v1.camera.samsung.so
 libImageSegmenter_v1.camera.samsung.so
 libSceneDetector_v1.camera.samsung.so
 libVideoClassifier.camera.samsung.so
-libtensorflowLite.dynamic_viewing.camera.samsung.so 
+libtensorflowLite.dynamic_viewing.camera.samsung.so
+libSegmentationCore.camera.samsung.so
+libRemasterEngine.camera.samsung.so
+libRelighting_API.camera.samsung.so
+llibcolor_engine.camera.samsung.so
