@@ -21,7 +21,7 @@
 - Host Based Adblock
 - Multi User Support
 - New Edglelight Effects
-- Improoved Display's Color Vibrancy
+- Changed Display Saturation
 
 
 ## Camera Addons

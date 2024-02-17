@@ -1,54 +1,23 @@
 ro.hwui.use_vulkan=true
-ro.sf.blurs_are_expensive=1
-ro.surface_flinger.supports_background_blur=1
-debug.sf.latch_unsignaled=1
 persist.vendor.camera.HAL3.enabled=1
 persist.camera.HAL3.enabled=1
 persist.camera.eis.enable=1 
 fw.max_users=6
 fw.show_multiuserui=1
-#Disables Error Checking
 ro.kernel.android.checkjni=0
 ro.kernel.checkjni=0
-
-#Screen Mirroring
 wlan.wfd.hdcp=disable
-
-#Signal Performance
 ro.telephony.call_ring.delay=0
 ring.delay=0						
-
-#Fingerprint On Reboot
 fingerprint.unlock=1
-
-#Save Battery Without Performance Drop
 pm.sleep_mode=1
 ro.ril.disable.power.collapse=0
 wifi.supplicant_scan_interval=180
-
-#Launcher Is Kept in Memory
 ro.HOME_APP_ADJ=1
-
-#Allow Purge of Assets To Free Ram
 persist.sys.purgeable_assets=1
-
-#Smooth Video Stream
 media.stagefright.enable-player=true
 media.stagefright.enable-meta=true
 media.stagefright.enable-scan=false
 media.stagefright.enable-http=true
-
-#Force GPU Render On 2D Operations
 debug.sf.hw=1
-
-#Video Acceleration On
 video.accelerate.hw=1
-
-#Increase General Performance
-debug.performance.tuning=1
-windowsmgr.max_events_per_sec=150
-ro.min_pointer_dur=8
-ro.max.fling_velocity=12000
-ro.min.fling_velocity=8000
-persist.sys.scrollingcache=3
-debug.sf.hw=1
